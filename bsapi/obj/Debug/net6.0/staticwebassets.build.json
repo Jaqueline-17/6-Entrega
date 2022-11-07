@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7GuM3MAPoFx4X58qTKkIZh+JyGwVvyqO08/ZLTvBg7Q=",
+  "Source": "bsapi",
+  "BasePath": "_content/bsapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
